@@ -1,12 +1,11 @@
 # InshortClone
-Inshorts Clone developed using ReactJS and Material UI
+InShorts Clone developed using ReactJS and Material UI
 API Used: News API
 
-![image](https://github.com/Mayank164869/InshortClone/assets/65328387/347ff5ae-7b48-4b2a-8df7-c0fdf321bc56)
+![image](https://github.com/Mayank164869/InShorts/assets/65328387/db54f4c6-2daa-4f1f-bd94-8e681b911542)
 
-![image](https://github.com/Mayank164869/InshortClone/assets/65328387/344041c5-d8cd-4031-8bea-efca80d18e69)
+![image](https://github.com/Mayank164869/InShorts/assets/65328387/7f3db1df-3d83-4283-bb88-5b01bb835237)
 
-![image](https://github.com/Mayank164869/InshortClone/assets/65328387/206db906-a8ab-4aab-b922-5033c1fe7f2b)
 
 
 
