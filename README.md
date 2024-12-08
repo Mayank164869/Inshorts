@@ -1,4 +1,4 @@
-# InshortClone
+# News Dekho - An Inshorts Clone
 InShorts Clone developed using ReactJS and Material UI
 API Used: News API
 
